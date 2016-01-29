@@ -1,8 +1,8 @@
   body {
     background: url("images/photo.jpg");
+    background-position: left center;
     font-family: arial-narrow, arial, san-serif;
     background-color: black;
-    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
