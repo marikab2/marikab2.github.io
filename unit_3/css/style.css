@@ -1,10 +1,9 @@
-  body {
-    background-color: black;
-    background-repeat: no-repeat;
-    background color: black;
-} 
+ body {
+ 	background-repeat: no-repeat;
+ 	background-color: black;
+ }
 
-h1 {
+ h1 {
 	position: fixed;
 	top: 100px;
 	left: 600px;
