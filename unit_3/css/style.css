@@ -1,8 +1,9 @@
   body {
-    background: url("../images/photo.jpg");
+    background-image: url("../images/photo.jpg");
     background-color: black;
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: 100%;
+    background color: black;
 } 
 
 h1 {
