@@ -1,10 +1,6 @@
   body {
-    background: url("images/photo.jpg");
-    background-position: left center;
-    font-family: arial-narrow, arial, san-serif;
+    background: url("../images/photo.jpg");
     background-color: black;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
 h1 {
