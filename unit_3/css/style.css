@@ -1,7 +1,9 @@
   body {
     background: url("../images/photo.jpg");
     background-color: black;
-}
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
 
 h1 {
 	position: fixed;
