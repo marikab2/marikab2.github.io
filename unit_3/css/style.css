@@ -1,8 +1,9 @@
  body {
+ 	background-color: black;
  	background-image: url("../images/flowers.jpg");
  	background-repeat: no-repeat;
+ 	background-attachment: fixed;
  	background-size: cover;
- 	background-color: black;
  }
 
  h1 {
