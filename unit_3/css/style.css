@@ -1,9 +1,7 @@
  body {
- 	background-color: black;
- 	background-image: url("../images/flowers.gif");
- 	background-repeat: no-repeat;
- 	background-attachment: fixed;
- 	background-size: cover;
+ background: url('../images.flowers.gif') no-repeat 50% 50% fixed; 
+  background-color: black;
+
  }
 
  h1 {
