@@ -1,5 +1,7 @@
  body {
+ 	background-image: url("../images/flowers.jpg");
  	background-repeat: no-repeat;
+ 	background-size: cover;
  	background-color: black;
  }
 
