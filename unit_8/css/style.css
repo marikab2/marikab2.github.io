@@ -90,13 +90,12 @@ footer {
   font-size: .7em;
 }
 img {
-  width: 100%;
+  width: 80%;
   height: auto;
   float: none;
 }
-nav {
-  line-height: 1.5em;
-  display: block;
+nav a {
+  text-align: center;
 }
 nav a:hover {
   color: #CC0099;
@@ -106,7 +105,8 @@ a:visited {
 }
 a:active {
   color: #CC0099;
-}}
+}
+}
  
 @media only screen and (max-width: 320px) {
   h1 {
@@ -124,15 +124,11 @@ a:active {
   footer {
   font-size: .6em;
 }
-nav {
-  line-height: 1.5em;
-}
-li {
-  display: block;
-  text-align: left;
+nav a {
+  text-align: center;
 }
 img {
-  width: 70%;
+  width: 60%;
   height: auto;
   float: none;
 }
